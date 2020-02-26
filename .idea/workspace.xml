@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ec9a17e-53d9-4446-a63c-a486b2e2d5fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJb3YvBNYjpZbVwnQhxNvG866m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/TestData" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Prakash\IdeaProjects\DemoNopCommerce\src\test\Resources\TestData" />
+      <recent name="C:\Users\Prakash\IdeaProjects\DemoNopCommerce\src\test\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit.verifyAddToCartButtonOnAllFeaturedProduct">
+    <configuration name="TestSuit.VarifyGaustUserCheckOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopCommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="VarifyGaustUserCheckOutSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.changeCurrencySymbol" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopCommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="changeCurrencySymbol" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.verifyAddToCartButtonOnAllFeaturedProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopCommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest" />
+      <option name="MAIN_CLASS_NAME" value="WebTest.TestSuit" />
+      <option name="METHOD_NAME" value="verifyAddToCartButtonOnAllFeaturedProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit.verifyAddToCartButtonOnAllFeaturedProduct" />
+        <item itemvalue="TestNG.TestSuit.VarifyGaustUserCheckOutSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.changeCurrencySymbol" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec9a17e-53d9-4446-a63c-a486b2e2d5fb" name="Default Changelist" comment="" />
+      <created>1582663445648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582663445648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="121" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582672068917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="653" y="121" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582672068917" />
+    <state width="1323" height="235" key="GridCell.Tab.0.bottom" timestamp="1582739220064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582739220064" />
+    <state width="1323" height="235" key="GridCell.Tab.0.center" timestamp="1582739220064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="235" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582739220064" />
+    <state width="1323" height="235" key="GridCell.Tab.0.left" timestamp="1582739220062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="235" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582739220062" />
+    <state width="1323" height="235" key="GridCell.Tab.0.right" timestamp="1582739220064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="235" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582739220064" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1582672820769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582672820769" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1582737293537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582737293537" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582674563943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1582674563943" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582746571714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582746571714" />
+  </component>
+</project>
